@@ -1,6 +1,6 @@
 # Build Your Own Confirm Dialog & Notification Material UI using React.js
 
-These is the demo project used to explaining, how you create your own Confirm Dialog and Notification component in 
+These is the User Records Added Application project used to explaining, how you create your own Confirm Dialog and Notification component in 
 Material UI.
 
 
