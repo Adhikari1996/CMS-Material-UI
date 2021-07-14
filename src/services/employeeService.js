@@ -48,4 +48,5 @@ export function getAllEmployees() {
         ...x,
         department: departments[x.departmentId - 1].title
     }))
+    
 }
